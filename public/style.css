@@ -1,0 +1,15 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(images/img2.jpg);
+    background-size: cover;
+    
+}
+.question{
+    background-color: #959FA3;
+}
+/* .rightanswer{
+    background-color: blue;
+    color: black;
+} */
